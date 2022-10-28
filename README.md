@@ -4,7 +4,7 @@
 # this is for demo purposes only. 
 
 
-Client /n
+Client \n
 data.txt = grama's muffins recipe :-)
 
 dns_exfil_client.py = dns tunnel exfil script on client side. Point the DNS resolver to localhost (hosts file) or a local DNS proxy.
